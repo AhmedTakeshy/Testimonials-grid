@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonials-grid](https://github.com/AhmedTakeshy/Testimonials-grid)
+- Solution URL: [Testimonials-grid](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-oMC9no-MMz)
 - Live Site URL: [testimonials-grid](https://ahmedtakeshy.github.io/Testimonials-grid/)
 
 ## My process
